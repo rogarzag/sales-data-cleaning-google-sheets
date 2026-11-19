@@ -6,12 +6,12 @@
 **GitHub repository:** [sales-data-cleaning-google-sheets](https://github.com/rogarzag/sales-data-cleaning-google-sheets)  
 **Project focus:** Data Analytics · Google Sheets · Data Cleaning · Data Standardization · KPI Reporting  
 **Project context:** Data Analytics portfolio project  
-**Data / case coverage:** Quarterly sales dataset; specific year not stated in the README  
+**Data / period covered:** Quarterly sales dataset; specific year not stated in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
 
-Google Sheets project focused on data cleaning, standardization, KPI analysis, and executive reporting from quarterly sales data.
+Google Sheets project focused on cleaning and organizing quarterly sales data, calculating key measures, and presenting the results in a summary.
 
 ## Business question
 
