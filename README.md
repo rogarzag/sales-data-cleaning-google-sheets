@@ -1,5 +1,16 @@
 # Sales Data Cleaning & Analysis in Google Sheets
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [sales-data-cleaning](https://rogarzag.github.io/projects/sales-data-cleaning/)  
+**GitHub repository:** [sales-data-cleaning-google-sheets](https://github.com/rogarzag/sales-data-cleaning-google-sheets)  
+**Project focus:** Data Analytics · Google Sheets · Data Cleaning · Data Standardization · KPI Reporting  
+**Project context:** Data Analytics portfolio project  
+**Data / case coverage:** Quarterly sales dataset; specific year not stated in the README  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 Google Sheets project focused on data cleaning, standardization, KPI analysis, and executive reporting from quarterly sales data.
 
 ## Business question
@@ -39,3 +50,7 @@ Google Sheets · Data Cleaning · Text Standardization · KPI Calculation · Vis
 This project is part of my broader Business Analysis and Data Analytics portfolio.
 
 [Professional Website](https://rogarzag.github.io/) · [GitHub Profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/)
+
+## Conclusion
+
+The cleaned and standardized dataset made it possible to compare product, city, and monthly performance consistently. Tablet was the best-selling category, Monterrey the leading city, and November the strongest month in the analyzed data. These findings describe the dataset and provide a starting point for commercial review; they should not be generalized beyond the period and records analyzed.
