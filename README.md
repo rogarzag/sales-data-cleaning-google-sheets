@@ -6,7 +6,7 @@
 **GitHub repository:** [sales-data-cleaning-google-sheets](https://github.com/rogarzag/sales-data-cleaning-google-sheets)  
 **Project focus:** Data Analytics · Google Sheets · Data Cleaning · Data Standardization · KPI Reporting  
 **Project context:** Data Analytics portfolio project  
-**Data / period covered:** Quarterly sales dataset; specific year not stated in the README  
+**Data / project coverage:** Quarterly sales dataset; specific year not stated in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
