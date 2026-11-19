@@ -29,13 +29,15 @@ The project focused on preparing the data for analysis and building a concise ex
 
 ## Key findings
 
-- **Tablet** was the best-selling category.
-- **Monterrey** was the leading city.
-- **November** was the strongest month.
+- **Tablet** was the best-selling product by quantity.
+- **Monterrey** recorded the highest total sales: **$541,137.36**.
+- **November** was the best-performing month, with **$1,027,372.46** in sales.
+- The analysis covered **753 transactions**, with total quarterly sales of **$2,944,620.61**.
+- No duplicate records were found. The original data contained **10 missing Unit Price values** and **8 missing Total Sales values**.
 
 ## Business takeaway
 
-A clean and standardized dataset makes it easier to identify the strongest product, market, and seasonal patterns and reduces the risk of drawing conclusions from inconsistent source data.
+The executive summary identifies the leading product, city, and month in the analyzed sales data. It also records missing values in two fields and inconsistent city names in the original data.
 
 ## Tools
 
@@ -53,4 +55,4 @@ This project is part of my broader Business Analysis and Data Analytics portfoli
 
 ## Conclusion
 
-The cleaned and standardized dataset made it possible to compare product, city, and monthly performance consistently. Tablet was the best-selling category, Monterrey the leading city, and November the strongest month in the analyzed data. These findings describe the dataset and provide a starting point for commercial review; they should not be generalized beyond the period and records analyzed.
+The analysis identified Tablet as the best-selling product by quantity, Monterrey as the city with the highest total sales, and November as the best-performing month. The executive summary also documented missing values and inconsistent city names in the original data. These findings describe only the records included in this project.
