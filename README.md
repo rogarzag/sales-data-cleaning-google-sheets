@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [sales-data-cleaning](https://rogarzag.github.io/projects/sales-data-cleaning/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [sales-data-cleaning-google-sheets](https://github.com/rogarzag/sales-data-cleaning-google-sheets)  
 **Project focus:** Data Analytics · Google Sheets · Data Cleaning · Data Standardization · KPI Reporting  
 **Project context:** Data Analytics portfolio project  
